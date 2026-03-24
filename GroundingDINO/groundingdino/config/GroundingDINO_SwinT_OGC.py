@@ -41,4 +41,3 @@ text_dropout = 0.0
 fusion_dropout = 0.0
 fusion_droppath = 0.1
 sub_sentence_present = True
-bert_base_uncased_path = "/kpfs-intern/zihengkang/models/hf/bert_base_uncased"
